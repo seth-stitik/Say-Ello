@@ -1,5 +1,3 @@
-Certainly! Here's a `README.md` configuration for your GitHub repository, tailored to include the sections you've outlined:
-
 ```markdown
 # SayEllo
 
